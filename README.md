@@ -23,7 +23,7 @@
 </p>
 <br>
 <h3 align='center'>
-  Extensions
+  Stable Diffusion Extensions
 </h2>
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=sd-webui-pure-diffusion-defender&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/sd-webui-pure-diffusion-defender)" width="400"></a>
