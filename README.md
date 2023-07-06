@@ -25,7 +25,7 @@
 </h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=sd-webui-pure-diffusion-defender&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/sd-webui-pure-diffusion-defender)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=sd-webui-2d-openpose-editor-mobile&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/sd-webui-3d-openpose-editor-mobile)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=sd-webui-3d-openpose-editor-mobile&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/sd-webui-3d-openpose-editor-mobile)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=sd-webui-system-info-directml&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/sd-webui-system-info-directml)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=sd-webui-2d-openpose-editor-mobile&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/sd-webui-2d-openpose-editor-mobile)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=sd-webui-ar-plus-plus&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/sd-webui-ar-plus-plus)
