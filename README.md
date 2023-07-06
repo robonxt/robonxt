@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-[![Readme Card](https://github-readme-stats.vercel.app/api/?username=robonxt&theme=tokyonight
+  <a href="#"><img src="(https://github-readme-stats.vercel.app/api/?username=robonxt&theme=tokyonight)" width="400"></a>
 </p>
 
 <h2 align='center'>
@@ -20,7 +20,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=sd-webui-directml&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/sd-webui-directml)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=sd-webui-extensions&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/sd-webui-extensions)
 
-<h3 align='center'>
+<h2 align='center'>
   Stable Diffusion Extensions
 </h2>
 
