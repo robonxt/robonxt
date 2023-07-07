@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  <a href="#"><img src="(https://github-readme-stats.vercel.app/api/?username=robonxt&theme=tokyonight)" width="400"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/?username=robonxt&theme=tokyonight" width="400"></a>
 </p>
 
 <h2 align='center'>
