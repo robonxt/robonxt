@@ -32,3 +32,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=sd-webui-prompt-all-in-one&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/sd-webui-prompt-all-in-one)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=sd-webui-novelai-prompt-formatter&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/sd-webui-novelai-prompt-formatter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=sd-webui-settings-state&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/sd-webui-settings-state)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=sd-webui-pure-tag-auto-complete&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/sd-webui-pure-tag-auto-complete)
+
