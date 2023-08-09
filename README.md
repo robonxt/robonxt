@@ -14,18 +14,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=CleanYourReddit&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/CleanYourReddit)
 
 <h2 align='center'>
-  Stable Diffusion WebUI
+  Stable Diffusion
 </h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=sd-webui-directml&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/sd-webui-directml)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=sd-webui-extensions&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/sd-webui-extensions)
-
-<h2 align='center'>
-  Stable Diffusion Extensions
-</h2>
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=sd-webui-pure-diffusion-defender&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/sd-webui-pure-diffusion-defender)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=sd-webui-3d-openpose-editor-mobile&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/sd-webui-3d-openpose-editor-mobile)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=sd-webui-2d-openpose-editor-mobile&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/sd-webui-2d-openpose-editor-mobile)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=sd-webui-ar-plus-plus&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/sd-webui-ar-plus-plus)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=sd-webui-novelai-prompt-formatter&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/sd-webui-novelai-prompt-formatter)
