@@ -24,3 +24,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=sd-webui-novelai-prompt-formatter&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/sd-webui-novelai-prompt-formatter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=sd-webui-pure-tag-auto-complete&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/sd-webui-pure-tag-auto-complete)
 
+<h2 align='center'>
+  AI Tools
+</h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=Fresh-RVC-WebUI&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/Fresh-RVC-WebUI)
