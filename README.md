@@ -10,7 +10,7 @@
   "CleanYour..." Adblock Filters
 </h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=CleanYourTwitter&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/CleanYourTwitter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=CleanYourTwitter&theme=tokyonight&hide_border=true&bg_color=664444)](https://github.com/robonxt/CleanYourTwitter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=CleanYourLinkedin&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/CleanYourLinkedIn)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=CleanYourReddit&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/CleanYourReddit)
 
