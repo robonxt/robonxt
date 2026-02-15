@@ -22,6 +22,11 @@
   "CleanYour..." Adblock Filters
 </h2>
 
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin?username=robonxt&repo=robonxt/CleanYourTwitter&show_owner=true&theme=shadow_red)](https://github.com/robonxt/CleanYourTwitter)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin?username=robonxt&repo=robonxt/CleanYourLinkedin&show_owner=true&theme=shadow_green)](https://github.com/robonxt/CleanYourLinkedIn)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin?username=robonxt&repo=robonxt/CleanYourReddit&show_owner=true&theme=shadow_green)](https://github.com/robonxt/CleanYourReddit)
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=CleanYourTwitter&theme=tokyonight&hide_border=true&bg_color=664444)](https://github.com/robonxt/CleanYourTwitter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=CleanYourLinkedin&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/CleanYourLinkedIn)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=CleanYourReddit&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/CleanYourReddit)
