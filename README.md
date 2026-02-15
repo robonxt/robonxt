@@ -7,7 +7,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="[https://github-stats-extended.vercel.app/api/badge.svg?username=robonxt&show_username=true](https://profile-stats-xleb.vercel.app/api/?username=robonxt&theme=tokyonight)" width="400"></a>
+  <a href="#"><img src="https://github-stats-extended.vercel.app/api?username=robonxt&rank_icon=github&show_icons=true&include_all_commits=true&disable_animations=true&theme=tokyonight" width="400"></a>
 </p>
 
 <h2 align='center'>
