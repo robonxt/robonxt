@@ -39,4 +39,4 @@
   AI Tools
 </h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=Fresh-RVC-WebUI&theme=tokyonight&hide_border=true&bg_color=664444)](https://github.com/robonxt/Fresh-RVC-WebUI)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin?username=robonxt&repo=robonxt/Fresh-RVC-WebUI&show_owner=true&theme=shadow_red)](https://github.com/robonxt/Fresh-RVC-WebUI)
