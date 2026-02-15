@@ -14,7 +14,7 @@
   Tools
 </h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=web-kmap&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/web-kmap)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin?username=robonxt&repo=robonxt/web-kmap&show_owner=true&theme=shadow_green)](https://github.com/robonxt/web-kmap)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=HiBusServo&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/HiBusServo)
 
 
