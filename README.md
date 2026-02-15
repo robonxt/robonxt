@@ -7,7 +7,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://profile-stats-xleb.vercel.app/api/?username=robonxt&theme=tokyonight" width="400"></a>
+  <a href="#"><img src="https://profile-stats-xleb.vercel.app/api/badge.svg?username=YourUsername&show_username=true" width="400"></a>
 </p>
 
 <h2 align='center'>
