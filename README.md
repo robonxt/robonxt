@@ -26,19 +26,14 @@
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin?username=robonxt&repo=robonxt/CleanYourLinkedin&show_owner=true&theme=shadow_green)](https://github.com/robonxt/CleanYourLinkedIn)
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin?username=robonxt&repo=robonxt/CleanYourReddit&show_owner=true&theme=shadow_green)](https://github.com/robonxt/CleanYourReddit)
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=CleanYourTwitter&theme=tokyonight&hide_border=true&bg_color=664444)](https://github.com/robonxt/CleanYourTwitter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=CleanYourLinkedin&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/CleanYourLinkedIn)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=CleanYourReddit&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/CleanYourReddit)
-
 <h2 align='center'>
   Stable Diffusion
 </h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=sd-webui-pure-diffusion-defender&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/sd-webui-pure-diffusion-defender)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=sd-webui-2d-openpose-editor-mobile&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/sd-webui-2d-openpose-editor-mobile)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=sd-webui-ar-plus-plus&theme=tokyonight&hide_border=true&bg_color=446644)](https://github.com/robonxt/sd-webui-ar-plus-plus)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robonxt&repo=sd-webui-pure-tag-auto-complete&theme=tokyonight&hide_border=true&bg_color=664444)](https://github.com/robonxt/sd-webui-pure-tag-auto-complete)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin?username=robonxt&repo=robonxt/sd-webui-pure-diffusion-defender&show_owner=true&theme=shadow_green)](https://github.com/robonxt/sd-webui-pure-diffusion-defender)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin?username=robonxt&repo=robonxt/sd-webui-2d-openpose-editor-mobile&show_owner=true&theme=shadow_green)](https://github.com/robonxt/sd-webui-2d-openpose-editor-mobile)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin?username=robonxt&repo=robonxt/sd-webui-ar-plus-plus&show_owner=true&theme=shadow_green)](https://github.com/robonxt/sd-webui-ar-plus-plus)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin?username=robonxt&repo=robonxt/sd-webui-pure-tag-auto-complete&show_owner=true&theme=shadow_red)](https://github.com/robonxt/sd-webui-pure-tag-auto-complete)
 
 <h2 align='center'>
   AI Tools
