@@ -11,11 +11,18 @@
 </p>
 
 <h2 align='center'>
-  Tools
+  Web
 </h2>
 
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin?username=robonxt&repo=robonxt/web-kmap&show_owner=true&theme=shadow_green)](https://github.com/robonxt/web-kmap)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin?username=robonxt&repo=robonxt/web-midi-rescaler&show_owner=true&theme=shadow_green)](https://github.com/robonxt/web-midi-rescaler)
+
+<h2 align='center'>
+  Arduino
+</h2>
+
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin?username=robonxt&repo=robonxt/HiBusServo&show_owner=true&theme=shadow_green)](https://github.com/robonxt/HiBusServo)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin?username=robonxt&repo=robonxt/Lobot-LewanSoul-Hiwonder-BusLinker-TTL-Debug-Board&show_owner=true&theme=shadow_green)](https://github.com/robonxt/Lobot-LewanSoul-Hiwonder-BusLinker-TTL-Debug-Board)
 
 
 <h2 align='center'>
